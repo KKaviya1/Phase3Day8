@@ -1,0 +1,13 @@
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.AssemblyReference.cache
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+F:\Phase 3\Day 8\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb

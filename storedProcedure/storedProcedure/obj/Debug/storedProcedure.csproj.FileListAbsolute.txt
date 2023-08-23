@@ -1,0 +1,8 @@
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\obj\Debug\storedProcedure.csproj.AssemblyReference.cache
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\obj\Debug\storedProcedure.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\obj\Debug\storedProcedure.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\bin\Debug\storedProcedure.exe.config
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\bin\Debug\storedProcedure.exe
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\bin\Debug\storedProcedure.pdb
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\obj\Debug\storedProcedure.exe
+F:\Phase 3\Day 8\storedProcedure\storedProcedure\obj\Debug\storedProcedure.pdb

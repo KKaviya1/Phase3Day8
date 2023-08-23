@@ -1,0 +1,13 @@
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EFAssign.exe.config
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EFAssign.exe
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EFAssign.pdb
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EntityFramework.dll
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EntityFramework.SqlServer.dll
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EntityFramework.xml
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\bin\Debug\EntityFramework.SqlServer.xml
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.csproj.AssemblyReference.cache
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.csproj.SuggestedBindingRedirects.cache
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.csproj.CoreCompileInputs.cache
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.csproj.CopyComplete
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.exe
+F:\Phase 3\Day 8\Assignment - 8\EFAssign\EFAssign\obj\Debug\EFAssign.pdb
